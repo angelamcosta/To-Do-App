@@ -11,5 +11,16 @@ The to-do web app allow users to add new items to a to-do list. Also, a user can
 * JQuery
 * Bootstrap 5
 
+## Installation
+1. Clone the repo
+   ```sh
+   git clone https://github.com/angelamcosta/To-Do-App.git
+   ```
+2. Launch a local development server. You could use Live Server extension in Visual Studio Code by typing <code> ctrl+P </code> and typing:
+   ```sh
+   ext install ritwickdey.liveserver
+   ```
+3. Preview the app and start adding your changes!
+
 ## Planned
 * Add the date and time when a task is added and/or completed.

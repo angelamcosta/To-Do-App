@@ -20,7 +20,7 @@ function getItems() {
     if (items === null || items.length === 0) {
         $("#toDoList").append("<span class='text-muted'>Start by adding a few tasks</span>");
     } else {
-        for (i = 0; i < items.length; i++) {
+        for (var i = 0; i < items.length; i++) {
             itemId = "item_" + i;
             $("#toDoList").append("<div class='m-3'> <input id='" + itemId + "' type='checkbox' onchange='statusChange(this.id);'/>&#160; <label for='" + itemId + "'>" + items[i] + "</label> <button class='btn btn-link btn-sm' id='" + itemId + "' onclick='deleteItem(this.id);'><img src='icons/trash-can.png' width='25' height='25' alt='trash logo'></button> <br> </div>");
         }

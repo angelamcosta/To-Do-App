@@ -6,7 +6,7 @@ To-Do App is a HTML single page basic to-do app that enables a user to add daily
 
 ## Objective
 
-The to-do web app allow users to add new items to a to-do list. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks appear on a separate list. The app uses local storage to allow users to resume the app upon restarting, right from where they left it off the last time.
+The to-do web app allow users to add new items to a to-do list. Also, a user can mark a task “complete” upon its successful completion, and these completed tasks appear on a separate list. The app uses local storage to allow users to resume the app upon restarting right from where they left it off the last time.
 
 ## Built With
 * Javascript

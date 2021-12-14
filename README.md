@@ -1,5 +1,3 @@
-[![SonarCloud](https://sonarcloud.io/images/project_badges/sonarcloud-orange.svg)](https://sonarcloud.io/summary/new_code?id=angelamcosta_To-Do-App)
-
 # To-Do App
 
 To-Do App is a HTML single page basic to-do app that enables a user to add daily tasks.
